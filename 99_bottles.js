@@ -18,5 +18,5 @@ function bottleSong(num) {
   }
 };
 
-bottleSong(3);
+bottleSong(99);
 
